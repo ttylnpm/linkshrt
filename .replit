@@ -1,0 +1,5 @@
+run = "npm run dev"
+modules = ["bun-1.1"]
+
+[nix]
+channel = "stable-23_11"
