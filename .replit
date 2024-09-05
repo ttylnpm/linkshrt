@@ -1,4 +1,4 @@
-run = "npm run dev"
+run = "bun run dev"
 modules = ["bun-1.1"]
 
 [nix]
